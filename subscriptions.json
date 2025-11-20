@@ -1,304 +1,304 @@
 {
   "subscriptions": [
-    {
-      "id": "netflix",
-      "name": "Netflix",
-      "logo": "",
-      "color": "#E50914"
-    },
-    {
-      "id": "disney-plus",
-      "name": "Disney+",
-      "logo": "",
-      "color": "#113CCF"
-    },
-    {
-      "id": "hbo-max",
-      "name": "HBO Max",
-      "logo": "",
-      "color": "#B320B3"
-    },
-    {
-      "id": "amazon-prime-video",
-      "name": "Amazon Prime Video",
-      "logo": "",
-      "color": "#00A8E1"
-    },
-    {
-      "id": "apple-tv-plus",
-      "name": "Apple TV+",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "youtube-premium",
-      "name": "YouTube Premium",
-      "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/youtube.png",
-      "color": "#FF0000"
-    },
-    {
-      "id": "hulu",
-      "name": "Hulu",
-      "logo": "",
-      "color": "#1CE783"
-    },
-    {
-      "id": "spotify",
-      "name": "Spotify",
-      "logo": "",
-      "color": "#1DB954"
-    },
-    {
-      "id": "apple-music",
-      "name": "Apple Music",
-      "logo": "",
-      "color": "#FA243C"
-    },
-    {
-      "id": "peacock",
-      "name": "Peacock",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "tidal",
-      "name": "Tidal",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "amazon-music",
-      "name": "Amazon Music",
-      "logo": "",
-      "color": "#FF9900"
-    },
-    {
-      "id": "youtube-music",
-      "name": "YouTube Music",
-      "logo": "",
-      "color": "#FF0000"
-    },
-    {
-      "id": "deezer",
-      "name": "Deezer",
-      "logo": "",
-      "color": "#FF0000"
-    },
-    {
-      "id": "pandora",
-      "name": "Pandora",
-      "logo": "",
-      "color": "#3668FF"
-    },
-    {
-      "id": "xbox-game-pass",
-      "name": "Xbox Game Pass",
-      "logo": "",
-      "color": "#107C10"
-    },
-    {
-      "id": "playstation-plus",
-      "name": "PlayStation Plus",
-      "logo": "",
-      "color": "#003087"
-    },
-    {
-      "id": "nintendo-switch-online",
-      "name": "Nintendo Switch Online",
-      "logo": "",
-      "color": "#E60012"
-    },
-    {
-      "id": "ea-play",
-      "name": "EA Play",
-      "logo": "",
-      "color": "#FF0000"
-    },
-    {
-      "id": "ubisoft-plus",
-      "name": "Ubisoft+",
-      "logo": "",
-      "color": "#0190FF"
-    },
-    {
-      "id": "microsoft-365",
-      "name": "Microsoft 365",
-      "logo": "",
-      "color": "#D83B01"
-    },
-    {
-      "id": "google-workspace",
-      "name": "Google Workspace",
-      "logo": "",
-      "color": "#4285F4"
-    },
-    {
-      "id": "adobe-creative-cloud",
-      "name": "Adobe Creative Cloud",
-      "logo": "",
-      "color": "#FF0000"
-    },
-    {
-      "id": "notion",
-      "name": "Notion",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "evernote",
-      "name": "Evernote",
-      "logo": "",
-      "color": "#00A82D"
-    },
-    {
-      "id": "dropbox",
-      "name": "Dropbox",
-      "logo": "",
-      "color": "#0061FF"
-    },
-    {
-      "id": "icloud-plus",
-      "name": "iCloud+",
-      "logo": "",
-      "color": "#3693F3"
-    },
-    {
-      "id": "google-one",
-      "name": "Google One",
-      "logo": "",
-      "color": "#4285F4"
-    },
-    {
-      "id": "onedrive",
-      "name": "OneDrive",
-      "logo": "",
-      "color": "#0078D4"
-    },
-    {
-      "id": "pcloud",
-      "name": "pCloud",
-      "logo": "",
-      "color": "#23B6E9"
-    },
-    {
-      "id": "new-york-times",
-      "name": "The New York Times",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "wall-street-journal",
-      "name": "The Wall Street Journal",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "medium",
-      "name": "Medium",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "substack",
-      "name": "Substack",
-      "logo": "",
-      "color": "#FF6719"
-    },
-    {
-      "id": "peloton",
-      "name": "Peloton",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "apple-fitness-plus",
-      "name": "Apple Fitness+",
-      "logo": "",
-      "color": "#FA243C"
-    },
-    {
-      "id": "headspace",
-      "name": "Headspace",
-      "logo": "",
-      "color": "#F47A59"
-    },
-    {
-      "id": "calm",
-      "name": "Calm",
-      "logo": "",
-      "color": "#3E4C59"
-    },
-    {
-      "id": "linkedin-learning",
-      "name": "LinkedIn Learning",
-      "logo": "",
-      "color": "#0077B5"
-    },
-    {
-      "id": "coursera-plus",
-      "name": "Coursera Plus",
-      "logo": "",
-      "color": "#0056D2"
-    },
-    {
-      "id": "udemy",
-      "name": "Udemy",
-      "logo": "",
-      "color": "#A435F0"
-    },
-    {
-      "id": "duolingo-plus",
-      "name": "Duolingo Plus",
-      "logo": "",
-      "color": "#58CC02"
-    },
-    {
-      "id": "brilliant",
-      "name": "Brilliant",
-      "logo": "",
-      "color": "#000000"
-    },
-    {
-      "id": "canva-pro",
-      "name": "Canva Pro",
-      "logo": "",
-      "color": "#00C4CC"
-    },
-    {
-      "id": "figma",
-      "name": "Figma",
-      "logo": "",
-      "color": "#F24E1E"
-    },
-    {
-      "id": "zoom-pro",
-      "name": "Zoom Pro",
-      "logo": "",
-      "color": "#2D8CFF"
-    },
-    {
-      "id": "slack",
-      "name": "Slack",
-      "logo": "",
-      "color": "#4A154B"
-    },
-    {
-      "id": "discord-nitro",
-      "name": "Discord Nitro",
-      "logo": "",
-      "color": "#5865F2"
-    },
-    {
-      "id": "nordvpn",
-      "name": "NordVPN",
-      "logo": "",
-      "color": "#4687FF"
-    },
-    {
-      "id": "1password",
-      "name": "1Password",
-      "logo": "",
-      "color": "#0094F5"
-    }
+	{
+	  "id": "1password",
+	  "name": "1Password",
+	  "logo": "",
+	  "color": "#0094F5"
+	},
+	{
+	  "id": "adobe-creative-cloud",
+	  "name": "Adobe Creative Cloud",
+	  "logo": "",
+	  "color": "#FF0000"
+	},
+	{
+	  "id": "amazon-music",
+	  "name": "Amazon Music",
+	  "logo": "",
+	  "color": "#FF9900"
+	},
+	{
+	  "id": "amazon-prime-video",
+	  "name": "Amazon Prime Video",
+	  "logo": "",
+	  "color": "#00A8E1"
+	},
+	{
+	  "id": "apple-fitness-plus",
+	  "name": "Apple Fitness+",
+	  "logo": "",
+	  "color": "#FA243C"
+	},
+	{
+	  "id": "apple-music",
+	  "name": "Apple Music",
+	  "logo": "",
+	  "color": "#FA243C"
+	},
+	{
+	  "id": "apple-tv-plus",
+	  "name": "Apple TV+",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "brilliant",
+	  "name": "Brilliant",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "calm",
+	  "name": "Calm",
+	  "logo": "",
+	  "color": "#3E4C59"
+	},
+	{
+	  "id": "canva-pro",
+	  "name": "Canva Pro",
+	  "logo": "",
+	  "color": "#00C4CC"
+	},
+	{
+	  "id": "coursera-plus",
+	  "name": "Coursera Plus",
+	  "logo": "",
+	  "color": "#0056D2"
+	},
+	{
+	  "id": "deezer",
+	  "name": "Deezer",
+	  "logo": "",
+	  "color": "#FF0000"
+	},
+	{
+	  "id": "discord-nitro",
+	  "name": "Discord Nitro",
+	  "logo": "",
+	  "color": "#5865F2"
+	},
+	{
+	  "id": "disney-plus",
+	  "name": "Disney+",
+	  "logo": "",
+	  "color": "#113CCF"
+	},
+	{
+	  "id": "dropbox",
+	  "name": "Dropbox",
+	  "logo": "",
+	  "color": "#0061FF"
+	},
+	{
+	  "id": "duolingo-plus",
+	  "name": "Duolingo Plus",
+	  "logo": "",
+	  "color": "#58CC02"
+	},
+	{
+	  "id": "ea-play",
+	  "name": "EA Play",
+	  "logo": "",
+	  "color": "#FF0000"
+	},
+	{
+	  "id": "evernote",
+	  "name": "Evernote",
+	  "logo": "",
+	  "color": "#00A82D"
+	},
+	{
+	  "id": "figma",
+	  "name": "Figma",
+	  "logo": "",
+	  "color": "#F24E1E"
+	},
+	{
+	  "id": "google-one",
+	  "name": "Google One",
+	  "logo": "",
+	  "color": "#4285F4"
+	},
+	{
+	  "id": "google-workspace",
+	  "name": "Google Workspace",
+	  "logo": "",
+	  "color": "#4285F4"
+	},
+	{
+	  "id": "hbo-max",
+	  "name": "HBO Max",
+	  "logo": "",
+	  "color": "#B320B3"
+	},
+	{
+	  "id": "headspace",
+	  "name": "Headspace",
+	  "logo": "",
+	  "color": "#F47A59"
+	},
+	{
+	  "id": "hulu",
+	  "name": "Hulu",
+	  "logo": "",
+	  "color": "#1CE783"
+	},
+	{
+	  "id": "icloud-plus",
+	  "name": "iCloud+",
+	  "logo": "",
+	  "color": "#3693F3"
+	},
+	{
+	  "id": "linkedin-learning",
+	  "name": "LinkedIn Learning",
+	  "logo": "",
+	  "color": "#0077B5"
+	},
+	{
+	  "id": "medium",
+	  "name": "Medium",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "microsoft-365",
+	  "name": "Microsoft 365",
+	  "logo": "",
+	  "color": "#D83B01"
+	},
+	{
+	  "id": "netflix",
+	  "name": "Netflix",
+	  "logo": "",
+	  "color": "#E50914"
+	},
+	{
+	  "id": "nintendo-switch-online",
+	  "name": "Nintendo Switch Online",
+	  "logo": "",
+	  "color": "#E60012"
+	},
+	{
+	  "id": "nordvpn",
+	  "name": "NordVPN",
+	  "logo": "",
+	  "color": "#4687FF"
+	},
+	{
+	  "id": "notion",
+	  "name": "Notion",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "onedrive",
+	  "name": "OneDrive",
+	  "logo": "",
+	  "color": "#0078D4"
+	},
+	{
+	  "id": "pandora",
+	  "name": "Pandora",
+	  "logo": "",
+	  "color": "#3668FF"
+	},
+	{
+	  "id": "pcloud",
+	  "name": "pCloud",
+	  "logo": "",
+	  "color": "#23B6E9"
+	},
+	{
+	  "id": "peacock",
+	  "name": "Peacock",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "peloton",
+	  "name": "Peloton",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "playstation-plus",
+	  "name": "PlayStation Plus",
+	  "logo": "",
+	  "color": "#003087"
+	},
+	{
+	  "id": "slack",
+	  "name": "Slack",
+	  "logo": "",
+	  "color": "#4A154B"
+	},
+	{
+	  "id": "spotify",
+	  "name": "Spotify",
+	  "logo": "",
+	  "color": "#1DB954"
+	},
+	{
+	  "id": "substack",
+	  "name": "Substack",
+	  "logo": "",
+	  "color": "#FF6719"
+	},
+	{
+	  "id": "new-york-times",
+	  "name": "The New York Times",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "wall-street-journal",
+	  "name": "The Wall Street Journal",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "tidal",
+	  "name": "Tidal",
+	  "logo": "",
+	  "color": "#000000"
+	},
+	{
+	  "id": "ubisoft-plus",
+	  "name": "Ubisoft+",
+	  "logo": "",
+	  "color": "#0190FF"
+	},
+	{
+	  "id": "udemy",
+	  "name": "Udemy",
+	  "logo": "",
+	  "color": "#A435F0"
+	},
+	{
+	  "id": "xbox-game-pass",
+	  "name": "Xbox Game Pass",
+	  "logo": "",
+	  "color": "#107C10"
+	},
+	{
+	  "id": "youtube-music",
+	  "name": "YouTube Music",
+	  "logo": "",
+	  "color": "#FF0000"
+	},
+	{
+	  "id": "youtube-premium",
+	  "name": "YouTube Premium",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/youtube.png",
+	  "color": "#FF0000"
+	},
+	{
+	  "id": "zoom-pro",
+	  "name": "Zoom Pro",
+	  "logo": "",
+	  "color": "#2D8CFF"
+	}
   ]
 }
