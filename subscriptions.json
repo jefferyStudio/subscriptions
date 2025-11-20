@@ -33,7 +33,7 @@
     {
       "id": "youtube-premium",
       "name": "YouTube Premium",
-      "logo": "/logos/youtube.png",
+      "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/youtube.png",
       "color": "#FF0000"
     },
     {
