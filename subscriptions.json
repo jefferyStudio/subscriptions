@@ -3,25 +3,25 @@
 	{
 	  "id": "1password",
 	  "name": "1Password",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/1password.png",
 	  "color": "#0094F5"
 	},
 	{
 	  "id": "adobe-creative-cloud",
 	  "name": "Adobe Creative Cloud",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/adobe-creative-cloud.png",
 	  "color": "#FF0000"
 	},
 	{
 	  "id": "amazon-music",
 	  "name": "Amazon Music",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/amazon-music.png",
 	  "color": "#FF9900"
 	},
 	{
 	  "id": "amazon-prime-video",
 	  "name": "Amazon Prime Video",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/amazon-prime-video.png",
 	  "color": "#00A8E1"
 	},
 	{
@@ -39,79 +39,79 @@
 	{
 	  "id": "apple-tv-plus",
 	  "name": "Apple TV+",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/apple-tv-plus.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "brilliant",
 	  "name": "Brilliant",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/brilliant-org.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "calm",
 	  "name": "Calm",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/calm.png",
 	  "color": "#3E4C59"
 	},
 	{
 	  "id": "canva-pro",
 	  "name": "Canva Pro",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/canva-pro.png",
 	  "color": "#00C4CC"
 	},
 	{
 	  "id": "coursera-plus",
 	  "name": "Coursera Plus",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/coursera-plus.png",
 	  "color": "#0056D2"
 	},
 	{
 	  "id": "deezer",
 	  "name": "Deezer",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/deezer.png",
 	  "color": "#FF0000"
 	},
 	{
 	  "id": "discord-nitro",
 	  "name": "Discord Nitro",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/discord.png",
 	  "color": "#5865F2"
 	},
 	{
 	  "id": "disney-plus",
 	  "name": "Disney+",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/disney-plus.png",
 	  "color": "#113CCF"
 	},
 	{
 	  "id": "dropbox",
 	  "name": "Dropbox",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/dropbox.png",
 	  "color": "#0061FF"
 	},
 	{
 	  "id": "duolingo-plus",
 	  "name": "Duolingo Plus",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/duolingo-plus.png",
 	  "color": "#58CC02"
 	},
 	{
 	  "id": "ea-play",
 	  "name": "EA Play",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/ea-play.png",
 	  "color": "#FF0000"
 	},
 	{
 	  "id": "evernote",
 	  "name": "Evernote",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/evernote.png",
 	  "color": "#00A82D"
 	},
 	{
 	  "id": "figma",
 	  "name": "Figma",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/figma.png",
 	  "color": "#F24E1E"
 	},
 	{
@@ -129,115 +129,115 @@
 	{
 	  "id": "hbo-max",
 	  "name": "HBO Max",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/hbo-max.png",
 	  "color": "#B320B3"
 	},
 	{
 	  "id": "headspace",
 	  "name": "Headspace",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/headspace.png",
 	  "color": "#F47A59"
 	},
 	{
 	  "id": "hulu",
 	  "name": "Hulu",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/hulu.png",
 	  "color": "#1CE783"
 	},
 	{
 	  "id": "icloud-plus",
 	  "name": "iCloud+",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/icloud-plus.png",
 	  "color": "#3693F3"
 	},
 	{
 	  "id": "linkedin-learning",
 	  "name": "LinkedIn Learning",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/linkedin-learning.png",
 	  "color": "#0077B5"
 	},
 	{
 	  "id": "medium",
 	  "name": "Medium",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/medium.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "microsoft-365",
 	  "name": "Microsoft 365",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/microsoft-365.png",
 	  "color": "#D83B01"
 	},
 	{
 	  "id": "netflix",
 	  "name": "Netflix",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/netflix.png",
 	  "color": "#E50914"
 	},
 	{
 	  "id": "nintendo-switch-online",
 	  "name": "Nintendo Switch Online",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/nintendo-switch-online.png",
 	  "color": "#E60012"
 	},
 	{
 	  "id": "nordvpn",
 	  "name": "NordVPN",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/nordvpn.png",
 	  "color": "#4687FF"
 	},
 	{
 	  "id": "notion",
 	  "name": "Notion",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/notion.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "onedrive",
 	  "name": "OneDrive",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/onedrive.png",
 	  "color": "#0078D4"
 	},
 	{
 	  "id": "pandora",
 	  "name": "Pandora",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/pandora.png",
 	  "color": "#3668FF"
 	},
 	{
 	  "id": "pcloud",
 	  "name": "pCloud",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/pcloud.png",
 	  "color": "#23B6E9"
 	},
 	{
 	  "id": "peacock",
 	  "name": "Peacock",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/peacock.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "peloton",
 	  "name": "Peloton",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/peloton.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "playstation-plus",
 	  "name": "PlayStation Plus",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/playstation-plus.png",
 	  "color": "#003087"
 	},
 	{
 	  "id": "slack",
 	  "name": "Slack",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/slack.png",
 	  "color": "#4A154B"
 	},
 	{
 	  "id": "spotify",
 	  "name": "Spotify",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/spoitify.png",
 	  "color": "#1DB954"
 	},
 	{
@@ -255,37 +255,37 @@
 	{
 	  "id": "wall-street-journal",
 	  "name": "The Wall Street Journal",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/wall-street-journal.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "tidal",
 	  "name": "Tidal",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/tidal.png",
 	  "color": "#000000"
 	},
 	{
 	  "id": "ubisoft-plus",
 	  "name": "Ubisoft+",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/ubisoft-plus.png",
 	  "color": "#0190FF"
 	},
 	{
 	  "id": "udemy",
 	  "name": "Udemy",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/udemy.png",
 	  "color": "#A435F0"
 	},
 	{
 	  "id": "xbox-game-pass",
 	  "name": "Xbox Game Pass",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/xbox-game-pass.png",
 	  "color": "#107C10"
 	},
 	{
 	  "id": "youtube-music",
 	  "name": "YouTube Music",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/youtube-music.png",
 	  "color": "#FF0000"
 	},
 	{
@@ -297,7 +297,7 @@
 	{
 	  "id": "zoom-pro",
 	  "name": "Zoom Pro",
-	  "logo": "",
+	  "logo": "https://cdn.jsdelivr.net/gh/jefferyStudio/subscriptions/logos/zoom.png",
 	  "color": "#2D8CFF"
 	}
   ]
